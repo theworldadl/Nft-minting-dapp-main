@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xb0209b59f4c5ab69a9ec5e6659aa9b36ec838bde",
+  "SCAN_LINK": "https://polygonscan.com/token/0xb0209b59f4c5ab69a9ec5e6659aa9b36ec838bde",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Zombie Lightning",
+  "SYMBOL": "ZL",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 25000000000000000000,
+  "DISPLAY_COST": 25,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/zombielightning",
+  "SHOW_BACKGROUND": true
+}
